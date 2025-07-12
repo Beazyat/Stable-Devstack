@@ -1,6 +1,6 @@
 <h1 align="center">🚀 آموزش نصب DevStack  <code>[Stable]</code></h1>
 <p align="center">
-  <img src="assets/devstack-logo.png" alt="DevStack Logo" width="120" />
+  <img src="assets/openstack-logo.png" alt="DevStack Logo" width="120" />
 </p>
 <p align="center"><i>مخزنی برای نصب، پیکربندی و رفع اشکال DevStack با تجربه عملی</i></p>
 
