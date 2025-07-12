@@ -52,7 +52,7 @@ sudo git clone https://github.com/openstack-dev/devstack.git
 ```bash
 git clone -b branch_name https://github.com/openstack-dev/devstack.git
 ```
-![[Screenshot 2025-07-01 200718.png| نحوه مشاهده و یافتن شاخه‌های پایدار]]
+![نحوه مشاهده و یافتن شاخه‌های پایدار](assets/screenshot1.png)
 پس از این مرحله نیز وارد دایرکتوری **devstack** می‌شویم.
 ```bash
 cd devstack
